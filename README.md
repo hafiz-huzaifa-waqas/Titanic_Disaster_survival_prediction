@@ -33,3 +33,6 @@ A self-learning machine learning project where I used the Titanic dataset from K
 ## Data Set
 
 Data set from kaggle: Titanic - Machine Learning Disaster https://www.kaggle.com/competitions/titanic/data
+
+Suggestions and Feedbacks are warmly welcome: Email:huzaifasiddiqui696@gmail.com
+
