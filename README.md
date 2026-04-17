@@ -2,7 +2,7 @@
 
 ## Overview
 
-A self-learning machine learning project where I used the Titanic dataset from Kaggle to apply and strengthen my understanding of core ML concepts such as data preprocessing, visualization, and model building.
+A self-learning machine learning project where I used the Titanic dataset from Kaggle to apply and strengthen my understanding of core ML concepts such as data preprocessing, visualization, and model building. In this project, I further tested my understanding by implementing multiple models, including Logistic Regression, KNN, Random Forest, XGBoost, and SVC.
 
 ## Tech Stack
 
